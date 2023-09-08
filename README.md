@@ -1,2 +1,2 @@
-# book_recommender
-Collaborative, content-based and popularity based book recommendation system.
+# Personalized Book Recommendation System
+Implementing a recommendation engine is done primarily to encourage customers to purchase more goods. We are implementing a book recommendation system that can help an avid reader to find other books that are similar to the books that they already like. Using various methods such as collaborative filtering, content based filtering and popularity based filtering, we try to recommend five other books to the user.
